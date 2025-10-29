@@ -1,0 +1,216 @@
+{
+  "designer": {
+    "name": "Misha Parveen",
+    "title": "Graphic Designer & UI/UX Specialist",
+    "age": 23,
+    "bio": "Hi there, this is Misha. I'm a 23-year-old girl passionate about creating and leaving a lasting mark in the world through design. Currently working at 9D Technologies, with almost 4 years in the tech industry. Experienced in illustration, graphic design, UI design, social media management, and creative direction. Known for a colorful, fun style adaptable to corporate needs.",
+    "email": "mishaparveen33@gmail.com",
+    "phone": "+92-3167409931",
+    "location": "Islamabad, Pakistan",
+    "originalLocation": "Faisalabad, Pakistan",
+    "behance": "https://www.behance.net/gallery/198781605/Portfolio",
+    "profileImage": "/static/images/SHE.png",
+    "skills": [
+      "Logo Design",
+      "Branding & Brand Design",
+      "UI/UX Design",
+      "2D Animation",
+      "Graphic Design",
+      "Social Media Management",
+      "Prototyping & Wireframing",
+      "Mobile App Design",
+      "Web Design",
+      "Illustration"
+    ],
+    "tools": [
+      "Adobe Illustrator",
+      "Adobe Photoshop",
+      "Adobe After Effects",
+      "Adobe XD",
+      "Figma",
+      "Jitter"
+    ],
+    "experience": "4+ years",
+    "yearsActive": "2020-Present",
+    "availability": "Available for freelance projects",
+    "designStyle": "Playful, neon, and modern aesthetic with colorful gradients and bold typography",
+    "designProcess": [
+      "Empathize",
+      "Define",
+      "Ideate",
+      "Prototype",
+      "Test",
+      "Execute"
+    ]
+  },
+  "experience": [
+    {
+      "id": 1,
+      "company": "9D Technologies",
+      "role": "Social Media Manager & Digital Media Associate",
+      "period": "2023 - Present",
+      "location": "Islamabad, Pakistan",
+      "responsibilities": [
+        "Social media strategy and management",
+        "Digital media content creation",
+        "Brand consistency across platforms",
+        "Campaign development and execution"
+      ],
+      "current": true
+    },
+    {
+      "id": 2,
+      "company": "Freelancer",
+      "role": "Graphic Designer & UI/UX Specialist",
+      "period": "2020 - Present",
+      "location": "Remote",
+      "responsibilities": [
+        "Logo design and branding",
+        "UI/UX design for web and mobile",
+        "Wireframing and prototyping",
+        "Storyboarding and 2D animation"
+      ],
+      "current": true
+    },
+    {
+      "id": 3,
+      "company": "Loopiq Studio",
+      "role": "Graphic Designer",
+      "period": "2023 - Aug 2023",
+      "location": "Remote",
+      "responsibilities": [
+        "UI Branding and design systems",
+        "Mobile app design",
+        "2D animation and promotion videos",
+        "Case study design"
+      ],
+      "current": false
+    },
+    {
+      "id": 4,
+      "company": "Delaqua.pk",
+      "role": "Graphic Designer & Social Media Expert",
+      "period": "2021 - 2023",
+      "location": "Pakistan",
+      "responsibilities": [
+        "Brand identity development",
+        "Social media content creation",
+        "Marketing campaign design",
+        "Brand guidelines maintenance"
+      ],
+      "current": false
+    }
+  ],
+  "education": {
+    "institution": "GC University Faisalabad",
+    "degree": "Bachelor of Science in Computer Science",
+    "period": "2018 - 2022",
+    "location": "Faisalabad, Pakistan"
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Brand Identity Design",
+      "category": "Branding",
+      "year": "2024",
+      "client": "Various Clients",
+      "description": "Complete brand identity packages including logo design, color palettes, typography, and brand guidelines. Creating memorable and impactful visual identities that resonate with target audiences.",
+      "images": [
+        "/static/images/project1-1.jpg",
+        "/static/images/project1-2.jpg"
+      ],
+      "tags": ["Logo Design", "Brand Design", "Brand Identity", "Visual Identity"],
+      "tools": ["Adobe Illustrator", "Adobe Photoshop"],
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Mobile App UI/UX Design",
+      "category": "UI/UX",
+      "year": "2024",
+      "client": "9D Technologies & Freelance",
+      "description": "Modern mobile application designs with focus on user experience, intuitive navigation, and engaging visual design. Includes prototyping, wireframing, and user flow mapping.",
+      "images": [
+        "/static/images/project2-1.jpg"
+      ],
+      "tags": ["UI Design", "Mobile App Design", "Prototyping", "Wireframing", "User Flows"],
+      "tools": ["Figma", "Adobe XD"],
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Social Media Content Design",
+      "category": "Graphic Design",
+      "year": "2024",
+      "client": "9D Technologies & Delaqua.pk",
+      "description": "Eye-catching social media posts, promotional graphics, and campaign materials. Designed to engage audiences and drive brand awareness with colorful, modern aesthetics.",
+      "images": [
+        "/static/images/project3-1.jpg"
+      ],
+      "tags": ["Post Design", "Social Media", "Content Creation", "Digital Marketing"],
+      "tools": ["Adobe Illustrator", "Adobe Photoshop"],
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "2D Animation & Motion Graphics",
+      "category": "Animation",
+      "year": "2023",
+      "client": "Loopiq Studio",
+      "description": "Engaging 2D animations, promotional videos, and motion graphics. Creating dynamic visual stories that capture attention and communicate messages effectively.",
+      "images": [
+        "/static/images/project4-1.jpg"
+      ],
+      "tags": ["2D Animation", "Motion Graphics", "Video Design", "Storyboard"],
+      "tools": ["Adobe After Effects", "Jitter"],
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "Web Design & UI",
+      "category": "UI/UX",
+      "year": "2023",
+      "client": "Freelance Projects",
+      "description": "Responsive web designs with modern layouts, intuitive user interfaces, and engaging visual elements. Focus on user experience and conversion optimization.",
+      "images": [
+        "/static/images/project5-1.jpg"
+      ],
+      "tags": ["Web Design", "UI Design", "Responsive Design", "Visual Design"],
+      "tools": ["Figma", "Adobe XD"],
+      "featured": false
+    },
+    {
+      "id": 6,
+      "title": "Marketing Materials & Print Design",
+      "category": "Graphic Design",
+      "year": "2023",
+      "client": "Various Clients",
+      "description": "Professional marketing collateral including business cards, letterheads, brochures, and book covers. Ensuring brand consistency across all touchpoints.",
+      "images": [
+        "/static/images/project6-1.jpg"
+      ],
+      "tags": ["Print Design", "Business Cards", "Letterhead", "Book Cover", "Marketing"],
+      "tools": ["Adobe Illustrator", "Adobe Photoshop"],
+      "featured": false
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Client",
+      "role": "Business Owner",
+      "text": "Misha's creative approach and attention to detail transformed our brand identity. Her colorful, modern designs perfectly captured our vision.",
+      "rating": 5
+    },
+    {
+      "name": "Project Manager",
+      "role": "9D Technologies",
+      "text": "Misha consistently delivers high-quality work and brings fresh, innovative ideas to every project. A valuable team member.",
+      "rating": 5
+    }
+  ],
+  "colorTheme": {
+    "primary": ["#00F0FF", "#FF006E", "#CCFF00", "#FFFF00"],
+    "style": "Neon Blue, Magenta, Lime Green, Yellow on Black Background",
+    "tone": "Energetic, youthful, confident, and creative"
+  }
+}
