@@ -1,6 +1,3 @@
-"""
-Vercel serverless function entry point
-"""
 import sys
 from pathlib import Path
 
@@ -9,10 +6,7 @@ root = Path(__file__).parent.parent
 sys.path.insert(0, str(root))
 
 from mangum import Mangum
-from backend.app.main import app as fastapi_app
+from backend.app.main import app
 
-# Wrap FastAPI app with Mangum for AWS Lambda/Vercel compatibility
-handler = Mangum(fastapi_app, lifespan="off")
-
-# Also export as 'app' for compatibility
-app = fastapi_app
+# Create the handler for Vercel
+handler = Mangum(app, lifespan="off")
