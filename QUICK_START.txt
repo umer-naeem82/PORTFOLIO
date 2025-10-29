@@ -1,0 +1,53 @@
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                    VERCEL DEPLOYMENT - QUICK START                    ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+✅ PREPARATION COMPLETE - Your code is ready and pushed to GitHub!
+
+📝 DEPLOYMENT STEPS (Follow in order):
+
+1️⃣  GO TO VERCEL
+    → Open: https://vercel.com
+    → Click "Sign Up" or "Login"
+    → Choose "Continue with GitHub"
+
+2️⃣  IMPORT PROJECT
+    → Click "Add New..." → "Project"
+    → Find: "PORTFOLIO" (umer-naeem82/PORTFOLIO)
+    → Click "Import"
+
+3️⃣  ⚠️  ADD ENVIRONMENT VARIABLE (CRITICAL!)
+    → In "Environment Variables" section, add:
+    
+    Name:  GEMINI_API_KEY
+    Value: [Your actual Gemini API key]
+    
+    🔑 Get API Key from: https://makersuite.google.com/app/apikey
+
+4️⃣  CONFIGURE SETTINGS
+    → Framework Preset: Other
+    → Root Directory: ./
+    → Build Command: (leave empty)
+    → Install Command: pip install -r requirements.txt
+
+5️⃣  DEPLOY
+    → Click "Deploy" button
+    → Wait 1-3 minutes
+    → Done! 🎉
+
+📍 YOUR SITE URL: https://[your-project-name].vercel.app
+
+═══════════════════════════════════════════════════════════════════════
+
+🔄 FUTURE UPDATES:
+Just push to GitHub - Vercel auto-deploys!
+
+git add .
+git commit -m "your message"
+git push origin main
+
+═══════════════════════════════════════════════════════════════════════
+
+📚 Full Guide: See VERCEL_DEPLOYMENT.md in your project folder
+
