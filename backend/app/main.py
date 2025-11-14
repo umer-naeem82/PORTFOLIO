@@ -33,7 +33,7 @@ app.mount("/js", StaticFiles(directory=str(BASE_DIR / "static" / "js")), name="j
 
 # Configure Gemini
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
-model = genai.GenerativeModel('gemini-2.0-flash-exp')  # Updated model name
+model = genai.GenerativeModel('gemini-2.0-flash')  # Updated model name
 
 # Load portfolio data
 DATA_PATH = Path(__file__).parent.parent / "data" / "portfolio.json"
